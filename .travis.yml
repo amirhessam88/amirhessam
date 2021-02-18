@@ -15,7 +15,7 @@ jobs:
       - pytest --cov=amir --cov-config=.coveragerc
       name: pytestq
 
-    - script: python -m black src --line-length=88
+    - script: python -m black amir --line-length=88
       name: pep8
 
     - script: flake8
