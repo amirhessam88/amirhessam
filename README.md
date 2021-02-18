@@ -1,7 +1,7 @@
-[![build status](https://travis-ci.com/amirhessam88/Regression-Error-Characteristic-Curve.svg?branch=master)](https://travis-ci.com/github/amirhessam88/Regression-Error-Characteristic-Curve)
-[![License](https://img.shields.io/github/license/amirhessam88/Regression-Error-Characteristic-Curve)](https://github.com/amirhessam88/Regression-Error-Characteristic-Curve/blob/master/LICENSE)
-[![Forks](https://img.shields.io/github/forks/amirhessam88/Regression-Error-Characteristic-Curve)](https://github.com/amirhessam88/Regression-Error-Characteristic-Curve/network/members)
-[![Stars](https://img.shields.io/github/stars/amirhessam88/Regression-Error-Characteristic-Curve)](https://github.com/amirhessam88/Regression-Error-Characteristic-Curve/stargazers)
+[![build status](https://travis-ci.com/amirhessam88/amirhessam.svg?branch=master)](https://travis-ci.com/github/amirhessam88/amirhessam)
+[![License](https://img.shields.io/github/license/amirhessam88/amirhessam)](https://github.com/amirhessam88/amirhessam/blob/master/LICENSE)
+[![Forks](https://img.shields.io/github/forks/amirhessam88/amirhessam)](https://github.com/amirhessam88/amirhessam/network/members)
+[![Stars](https://img.shields.io/github/stars/amirhessam88/amirhessam)](https://github.com/amirhessam88/amirhessam/stargazers)
 
 
 <h1 align="center">
