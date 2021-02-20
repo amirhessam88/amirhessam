@@ -22,7 +22,7 @@ pip install amir
 ```
 
 ## Citation
-If you use REC in academic work, please consider citing
+If you use the library in academic work, please consider citing
 https://doi.org/10.1117/12.2304418 .
 
 ### Bibtex Entry:
