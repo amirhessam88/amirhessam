@@ -52,4 +52,4 @@ setuptools.setup(
         "Intended Audience :: Science/Research",
         "Natural Language :: English",
     ],
-    )
+)
