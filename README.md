@@ -1,7 +1,7 @@
 [![build status](https://travis-ci.com/amirhessam88/amirhessam.svg?branch=master)](https://travis-ci.com/github/amirhessam88/amirhessam)
 [![License](https://img.shields.io/github/license/amirhessam88/amirhessam)](https://github.com/amirhessam88/amirhessam/blob/master/LICENSE)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/amir)](https://pypi.org/project/amir/)
-[![PyPI - Version](https://img.shields.io/pypi/dm/amir)](https://pypi.org/project/amir/)
+![PyPI Version](https://img.shields.io/pypi/v/amir)
 [![Issues](https://img.shields.io/github/issues/amirhessam88/amirhessam)](https://github.com/amirhessam88/amirhessam/issues)
 [![Forks](https://img.shields.io/github/forks/amirhessam88/amirhessam)](https://github.com/amirhessam88/amirhessam/network/members)
 [![Stars](https://img.shields.io/github/stars/amirhessam88/amirhessam)](https://github.com/amirhessam88/amirhessam/stargazers)
