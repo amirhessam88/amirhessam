@@ -26,7 +26,7 @@ DOWNLOAD_URL = "https://github.com/amirhessam88/amirhessam/"
 LICENSE = "MIT"
 PYTHON_REQUIRES = ">=3.6"
 PACKAGES = setuptools.find_packages()
-VERSION = "0.0.3"
+VERSION = "0.0.4"
 
 # ==============================================================================
 # Setup
